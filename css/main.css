@@ -56,3 +56,25 @@ p{
 	color: #666;
 	margin-top: 1rem;
 }
+
+.third-section{
+	background-color: #F2F2F2;
+	height: 130vh;
+
+}
+
+.btn-default{
+	color: #fff;
+	background-color: #D2527F;
+	border-color: #B4215D; 
+}
+
+.btn-default:hover{
+	color: #fff;
+	background-color: #c53a6d;
+	color: #fff;
+}
+
+.btns{
+	padding-top: 5em;
+}
