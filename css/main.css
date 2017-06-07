@@ -23,3 +23,36 @@
 	color:#fff;
 	font-weight: 400;
 }
+
+.app{
+	padding: 2em 0;
+	color: #5A5A5A;
+}
+
+.second-section{
+	background-color: #FFF;
+	padding: 5rem 10%;
+}
+
+.title-second{
+	color: #D2527F;
+}
+
+.features{
+	padding: 0.8rem;
+}
+
+.features:hover{
+	background-color: #F2F2F2;
+	cursor: pointer;
+}
+
+p{
+	padding: 0;
+	margin-bottom: 1rem;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: #666;
+	margin-top: 1rem;
+}
